@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Casper\\Desktop\\yaz\u0131l\u0131m\\C-Sharp\\MaskTracking\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2B7F1FDD-1FB2-4333-8F40-CBDD717F2495}|Workspace\\Workspace.csproj|c:\\users\\casper\\desktop\\yaz\u0131l\u0131m\\c-sharp\\masktracking\\workspace\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B7F1FDD-1FB2-4333-8F40-CBDD717F2495}|Workspace\\Workspace.csproj|solutionrelative:workspace\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB33CBDD-BB38-413F-AC7C-62C24993F2C0}|Business\\Business.csproj|c:\\users\\casper\\desktop\\yaz\u0131l\u0131m\\c-sharp\\masktracking\\business\\connected services\\mernisservicereference1\\reference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB33CBDD-BB38-413F-AC7C-62C24993F2C0}|Business\\Business.csproj|solutionrelative:business\\connected services\\mernisservicereference1\\reference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB33CBDD-BB38-413F-AC7C-62C24993F2C0}|Business\\Business.csproj|c:\\users\\casper\\desktop\\yaz\u0131l\u0131m\\c-sharp\\masktracking\\business\\concrete\\pttmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB33CBDD-BB38-413F-AC7C-62C24993F2C0}|Business\\Business.csproj|solutionrelative:business\\concrete\\pttmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB33CBDD-BB38-413F-AC7C-62C24993F2C0}|Business\\Business.csproj|c:\\users\\casper\\desktop\\yaz\u0131l\u0131m\\c-sharp\\masktracking\\business\\concrete\\personmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB33CBDD-BB38-413F-AC7C-62C24993F2C0}|Business\\Business.csproj|solutionrelative:business\\concrete\\personmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB33CBDD-BB38-413F-AC7C-62C24993F2C0}|Business\\Business.csproj|c:\\users\\casper\\desktop\\yaz\u0131l\u0131m\\c-sharp\\masktracking\\business\\abstract\\iapplicantservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB33CBDD-BB38-413F-AC7C-62C24993F2C0}|Business\\Business.csproj|solutionrelative:business\\abstract\\iapplicantservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE60DC47-4B63-47AA-B866-0791ED1190EF}|Entities\\Entities.csproj|c:\\users\\casper\\desktop\\yaz\u0131l\u0131m\\c-sharp\\masktracking\\entities\\concrete\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE60DC47-4B63-47AA-B866-0791ED1190EF}|Entities\\Entities.csproj|solutionrelative:entities\\concrete\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Reference.cs",
+              "DocumentMoniker": "C:\\Users\\Casper\\Desktop\\yaz\u0131l\u0131m\\C-Sharp\\MaskTracking\\Business\\Connected Services\\MernisServiceReference1\\Reference.cs",
+              "RelativeDocumentMoniker": "Business\\Connected Services\\MernisServiceReference1\\Reference.cs",
+              "ToolTip": "C:\\Users\\Casper\\Desktop\\yaz\u0131l\u0131m\\C-Sharp\\MaskTracking\\Business\\Connected Services\\MernisServiceReference1\\Reference.cs",
+              "RelativeToolTip": "Business\\Connected Services\\MernisServiceReference1\\Reference.cs",
+              "ViewState": "AQIAAJMAAAAAAAAAAAArwKMAAAB0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T11:33:33.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PTTManager.cs",
+              "DocumentMoniker": "C:\\Users\\Casper\\Desktop\\yaz\u0131l\u0131m\\C-Sharp\\MaskTracking\\Business\\Concrete\\PTTManager.cs",
+              "RelativeDocumentMoniker": "Business\\Concrete\\PTTManager.cs",
+              "ToolTip": "C:\\Users\\Casper\\Desktop\\yaz\u0131l\u0131m\\C-Sharp\\MaskTracking\\Business\\Concrete\\PTTManager.cs",
+              "RelativeToolTip": "Business\\Concrete\\PTTManager.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAB4AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T11:01:23.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Casper\\Desktop\\yaz\u0131l\u0131m\\C-Sharp\\MaskTracking\\Workspace\\Program.cs",
+              "RelativeDocumentMoniker": "Workspace\\Program.cs",
+              "ToolTip": "C:\\Users\\Casper\\Desktop\\yaz\u0131l\u0131m\\C-Sharp\\MaskTracking\\Workspace\\Program.cs",
+              "RelativeToolTip": "Workspace\\Program.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAiwAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T10:59:15.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PersonManager.cs",
+              "DocumentMoniker": "C:\\Users\\Casper\\Desktop\\yaz\u0131l\u0131m\\C-Sharp\\MaskTracking\\Business\\Concrete\\PersonManager.cs",
+              "RelativeDocumentMoniker": "Business\\Concrete\\PersonManager.cs",
+              "ToolTip": "C:\\Users\\Casper\\Desktop\\yaz\u0131l\u0131m\\C-Sharp\\MaskTracking\\Business\\Concrete\\PersonManager.cs",
+              "RelativeToolTip": "Business\\Concrete\\PersonManager.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAiwCAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T10:07:39.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IApplicantServices.cs",
+              "DocumentMoniker": "C:\\Users\\Casper\\Desktop\\yaz\u0131l\u0131m\\C-Sharp\\MaskTracking\\Business\\Abstract\\IApplicantServices.cs",
+              "RelativeDocumentMoniker": "Business\\Abstract\\IApplicantServices.cs",
+              "ToolTip": "C:\\Users\\Casper\\Desktop\\yaz\u0131l\u0131m\\C-Sharp\\MaskTracking\\Business\\Abstract\\IApplicantServices.cs",
+              "RelativeToolTip": "Business\\Abstract\\IApplicantServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T08:49:57.404Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\Casper\\Desktop\\yaz\u0131l\u0131m\\C-Sharp\\MaskTracking\\Entities\\Concrete\\Person.cs",
+              "RelativeDocumentMoniker": "Entities\\Concrete\\Person.cs",
+              "ToolTip": "C:\\Users\\Casper\\Desktop\\yaz\u0131l\u0131m\\C-Sharp\\MaskTracking\\Entities\\Concrete\\Person.cs",
+              "RelativeToolTip": "Entities\\Concrete\\Person.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T05:46:34.916Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
